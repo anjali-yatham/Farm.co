@@ -15,7 +15,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 PORT=5000
 ```
 
-## Quick Start Commands
+## Quick Start Commands1
 
 ```bash
 # Install backend dependencies
